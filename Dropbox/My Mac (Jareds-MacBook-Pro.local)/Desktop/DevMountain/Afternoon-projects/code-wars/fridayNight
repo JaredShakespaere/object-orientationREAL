@@ -1,0 +1,37 @@
+ function descendingOrder(num){
+     let string = num.toString
+     let split = string.split('')
+     split.sort()
+     split.reverse()
+     split.join('')
+     console.log(split)
+     return split
+ }
+descendingOrder(848935)
+
+
+
+
+// let num = [1234234298798]
+// num.toString
+// num.sort();
+// num.toString.split('')
+// num.reverse();
+
+// console.log(num)
+
+// let num = '1234234298798'
+
+// let split = num.split('')
+// split.sort()
+// split.reverse()
+// split.join('')
+
+// console.log(split)
+
+
+
+
+// let string = 'I dont know what i am doing'
+// let split = string.split('')
+// console.log(split)
