@@ -1,0 +1,16 @@
+Question #1: How does the internet work? 
+
+the internet is a series of networks strung together. At the bottom level, your computer and all your devices are connected to a router.
+Your neighbors computer and all their devices are connected to a router. And everybody has their own little network of their own devices. 
+Then all of our little networks connect to each other through servers and makes the internet.
+
+
+
+
+Question #2: What happens when you click on a link?
+
+the client, or person/device looking at anything front-end on an app will click on something, 
+it will send a request to the server (the request is actually translated into JSON to be sent)
+the server will break up the request to process it and as the server checks off parts of the request that passed
+those parts will be sent back to the client, so they can have immediate feedback. This happens till all the parts of the 
+request are sent back.
