@@ -1,0 +1,472 @@
+node journalServer
+cd journalServer
+node server.js
+npm i express
+node server.js
+npm i
+node server.js
+node server.js
+curl -i http:localhost:4500
+curl -i http://localhost:4500
+curl -i https://localhost:4500
+curl -i http:// localhost: 4500
+curl -i http:// localhost: 4500
+curl -i http://localhost:4500
+node server.js
+curl -i http:localhost:4500
+curl -i http://localhost:4500
+curl -i http://localhost:4500/entries
+echo "# web_works" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/web_works.git\
+git push -u origin main
+git add .
+git commit "initial commit"
+git commit -m "initial-commit"
+curl -i -X POST -H â€ƒ¸Content-type: application/jsonâ€ƒ¹ -d http://localhost:4500
+curl -i -X POST -H â€ƒ¸Content-type: application/jsonâ€ƒ¹ -d 127.0.0.1:4500
+curl -i -X POST -H â€ƒ¸Content-type: application/jsonâ€ƒ¹ -d '{"newEntry"}' http://localhost/entry
+curl -i -X POST -H â€ƒ¸Content-type: application/jsonâ€ƒ¹ -d newEntry  http://localhost:4500/entry
+git add .
+git commit -m "final-commit"
+git push
+cd ../../../../
+cd ../
+cd ../
+cd ../
+cd css
+ping devmountain.com
+rip devmountain.com
+dig devmountain.com
+clear
+-i https://en6pl7172hgvu.x.pipedream.net
+curl -i http://en6pl7172hgbu.x.pipedream.net
+curl -i https://en6pl7172hgvu.x.pipedream.net curl -d '{ "name": "Han Solo" }' \\
+  -H "Content-Type: application/json" \\
+  https://en6pl7172hgvu.x.pipedream.net/
+curl -i https://en6pl7172hgvu.x.pipedream.net
+curl - i https://en6pl7172hgvu.x.pipedream.net curl -d '{"name": "Jah Rule" }' \ -H "Content-Type: application/json" \ https
+curl -d '{ "name": "Han Solo" }' \\
+  -H "Content-Type: application/json" \\
+  https://en6pl7172hgvu.x.pipedream.net/
+curl -d '{ "name": "Jah Rule" "Producer": "Murder Inc." }' \\
+  -H "Content-Type: application/json" \\
+  https://en6pl7172hgvu.x.pipedream.net/
+cd Desktop/DevMountain/Afternoon-projects/Week-3
+mkdir html/css
+mkdir
+mkdir -pv 
+mkdir -pv css
+code .
+ls
+cd css
+code .
+echo "# html-css" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/html-css.git\
+git push -u origin main
+cd Desktop/DevMountain/Afternoon-projects/Week-3/Tuesday
+ls
+cd html-css
+code .
+cd Desktop/DevMountain/Afternoon-projects/Week-3
+ls
+cd js-interactivity-demo
+ls
+code .
+cd ../../
+cd Wednesday/js-interactivity
+ls
+code .
+echo "# js-interactivity" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/js-interactivity.git\
+git push -u origin main
+git add . 
+git commit -m "end-of-basic-questions"
+git push
+git add .
+git commit -m "final-advanced-problems"
+git push
+git add . 
+git commit -m "first-commit"
+git add .
+git commit -m "first-commit-before-looking-at-hint"
+git add .
+git commit -m "final-commit"
+git push
+git add . 
+git commit -m "done-with-drill1"
+pwd
+node codewars-thursday
+cd Desktop/DevMountain/Afternoon-projects/Week-3/Thursday/js-requests-demo
+ls
+code .
+cd Desktop/DevMountain/Afternoon-projects/Week-3
+ls
+cd Thursday
+ls
+cd js-requests
+ls
+code .
+echo "# js-requests" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/js-requests.git\
+git push -u origin main
+npm i
+node server/index.js
+git add .
+git commit -m "final-commmit"
+git push
+cd Desktop/DevMountain/Afternoon-projects/Week-3/Thursday
+ls
+cd js-requests
+ls
+code .
+node server/index.js
+npm i
+node server.js
+node server.js
+git status
+cd Desktop/DevMountain/Afternoon-projects/Week-2/Assessment/js-basics\ 2/password.js
+cd Desktop/DevMountain/Afternoon-projects/Week-2/Assessment/js-basics\ 2/
+node password.js
+node password.js
+node password.js
+Hello
+node password.js
+node password.js
+node password.js
+node password.js
+node password.js
+node password.js
+node password.js
+node password.js
+git status
+git add .
+git commit -m "redo-password-validation"
+git status
+git add .
+git commit "commit"
+git commit -m "commit"
+git push
+cd Desktop/DevMountain/Afternoon-projects/Week-2
+ls
+cd Assessment
+ls
+cd js-basics
+ls
+cd ../
+cd js-basics\ 2
+ls
+code password.js
+code password.js
+code password.js
+cd ../../../../../
+cd DevMountain/Afternoon-projects
+cd Week-2
+cd Monday
+ls
+cd Exercise
+ls
+code calculator
+code .
+cd ../../
+cd ../
+Wee Week-3
+WirelessRadioManagerd Weclead
+cd Week-3
+ls
+cd Tues
+cd Tuesday
+ls
+code html-css
+cd drill-2
+ls
+cd ../
+git add .
+git commit -m "drill-2-completed"
+git push
+git add .
+git commit -m "drill-3-final"
+git push
+cd Desktop/DevMountain/Afternoon-projects/Week-3/Assessment/web
+code .
+get add .
+git add .
+git commit -m
+git commit -m "final-commit"
+git push
+echo "# web-assessment" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/web-assessment.git\
+git push -u origin main
+git add .
+git commit -m "final-commit"
+git push
+git add .
+git commit -m "final-commit-changes"
+git push
+nwd
+pwd
+cd Desktop/Coding
+ls
+cd codewars-thursday
+cd Desktop
+ls
+cd Coding\ help
+ls
+code .
+code code-wars.js
+node code-wars.js
+node code-wars.js
+node code-wars.js
+echo "# data-python" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/data-python.git\
+git push -u origin main
+git add .
+git commit -m "first-commit"
+node starter.py
+node starter.py
+node starter.py
+node starter.py
+node starter.py
+git add .
+git commit "first-finished"
+git commit -m "first-finished"
+ /usr/bin/env /usr/local/bin/python3 /Users/jaredshakespaere/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63071 -- "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/starter.py" 
+node starter.py
+node starter.py
+node starter.py
+node starter.py
+/usr/local/bin/python3
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/starter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+python -m pip install -U pip\
+python -m pip install -U matplotlib
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+python -m pip install -U pip\
+python -m pip install -U matplotlib/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+python -m pip install -U pip\
+python -m pip install -U matplotlib
+python -m pip install -U pip
+python -m pip install -U pip\
+python -m pip install -U matplotlib
+python -m pip install -U pip\
+python -m pip install -U matplotlib\python -m pip install -U pip\
+python -m pip install -U matplotlib
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+python -m pip install -U pip\
+python -m pip install -U matplotlib
+ls
+$ python get-pip.py
+pip install matplotlib
+ls
+python -V
+brew install python3
+python -V
+pip -V
+$ python get-pip.py
+pip install matplotlib
+git add .
+git commit -m "final-commit"
+git push
+python -V
+python3 --V
+python3 data_presenter.py
+pip -V
+ls
+pip -V
+psuedo easy_install pip
+python3 --V
+python3 --v
+python3 --version
+pip3 --version
+pip3 install matplotlib
+python3.datapresenter.py
+python3 data_presenter.py
+cd Desktop/DevMountain/Afternoon-projects/Week-4/data-python
+code .
+code .
+code .
+python -m pip install -U pip\
+python -m pip install -U matplotlib
+python get-pip.py
+python get-pip.py
+$ python get-pip.py
+python -V
+git add .
+git commit -m "part-3-unfinished"
+git push
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/data-python/data_presenter.py"
+git init
+git add .
+git commit -m "initial-commit"
+echo "# sql-basics" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/sql-basics.git\
+git push -u origin main
+git add .
+git commit -m "now-starting"
+git add .
+git commit -m "1-4"
+git add . 
+git commit -m "5-14"
+git add . 
+git commit -m "final-order"
+git add . 
+git commit -m "final-artist"
+git add .
+git commit -m "employee-final"
+git add .
+git commit -m "final-invoice"
+git push
+cd Desktop/DevMountain/Afternoon-projects/Week-4/Tuesday/sql-basics
+code .
+cd Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further\ study\ /data-python
+code .
+cd Desktop/DevMountain/Afternoon-projects/Week-4/Thursday
+ls
+cd sql-2
+ls
+code .
+echo "# advanced-sql2" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/advanced-sql2.git\
+git push -u origin main
+git add .
+git commit -m "join.sql"
+git add .
+git commit -m "final-subqueries"
+git add .
+git commit -m "create-view"
+git add .
+git commit -m "update-unfinished"
+git push
+git add .
+git add .
+git add .
+git commit -m "finished-updatesql"
+git add .
+git commit -m "final-deletesql"
+git push
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/Further study /data-python/functions.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Monday/data-python/data_presenter.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Assessment/databases/process.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Assessment/databases/process.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Assessment/databases/process.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Assessment/databases/process.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Assessment/databases/process.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Assessment/databases/process.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Assessment/databases/process.py"
+/usr/local/bin/python3 "/Users/jaredshakespaere/Dropbox/My Mac (Jareds-MacBook-Pro.local)/Desktop/DevMountain/Afternoon-projects/Week-4/Assessment/databases/process.py"
+git add .
+git commit -m "final-py"
+git push
+echo "# sql-data-modeling-assessment" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/sql-data-modeling-assessment.git\
+git push -u origin main
+git add .
+git commit -m "final-commit-sql-skills"
+git add . 
+git commit -m "final-commit-data-manipulation-python"
+git add .
+git commit -m "final-extra-credit"
+git push
+git add .
+git commit -m "final-commit"
+git push
+cho "# sql-data-modeling-assessment" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/sql-data-modeling-assessment.git\
+git push -u origin main
+echo "# sql-data-modeling-assessment" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/sql-data-modeling-assessment.git\
+git push -u origin main
+git push
+cd Desktop/DevMountain/Afternoon-projects/Week-4/Assessment
+ls
+cd databases
+ls
+code .

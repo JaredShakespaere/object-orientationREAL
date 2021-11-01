@@ -13,9 +13,17 @@
     <ul id="people" class=""></ul>
 
     <button id="button">GET Friends List</button>
-
+   
+    <section class= 'reqest-type'>
+      <p class= 'request-descriptor'> get request: using query get friends names that matches query string</p>
+        <h4> friends name search </h4>
+        <input type= 'text' id= 'query-input' />
+        <button id= 'getQuerySubmit'>submit</button>
+    </section>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
     <script>
+      
       document.getElementById("button").onclick = function () {
         axios
           .get("http://localhost:4000/api/users")
@@ -33,5 +41,6 @@
           });
       };
     </script>
+    <script src= "./client/index.js"></script>
   </body>
 </html>

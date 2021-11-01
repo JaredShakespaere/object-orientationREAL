@@ -1,0 +1,66 @@
+node journalServer
+cd journalServer
+node server.js
+npm i express
+node server.js
+npm i
+node server.js
+node server.js
+curl -i http:localhost:4500
+curl -i http://localhost:4500
+curl -i https://localhost:4500
+curl -i http:// localhost: 4500
+curl -i http:// localhost: 4500
+curl -i http://localhost:4500
+node server.js
+curl -i http:localhost:4500
+curl -i http://localhost:4500
+curl -i http://localhost:4500/entries
+echo "# web_works" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/ShakeyShack2844/web_works.git\
+git push -u origin main
+git add .
+git commit "initial commit"
+git commit -m "initial-commit"
+curl -i -X POST -H â€ƒ¸Content-type: application/jsonâ€ƒ¹ -d http://localhost:4500
+curl -i -X POST -H â€ƒ¸Content-type: application/jsonâ€ƒ¹ -d 127.0.0.1:4500
+curl -i -X POST -H â€ƒ¸Content-type: application/jsonâ€ƒ¹ -d '{"newEntry"}' http://localhost/entry
+curl -i -X POST -H â€ƒ¸Content-type: application/jsonâ€ƒ¹ -d newEntry  http://localhost:4500/entry
+git add .
+git commit -m "final-commit"
+git push
+cd ../../../../
+cd ../
+cd ../
+cd ../
+cd css
+ping devmountain.com
+rip devmountain.com
+dig devmountain.com
+clear
+-i https://en6pl7172hgvu.x.pipedream.net
+curl -i http://en6pl7172hgbu.x.pipedream.net
+curl -i https://en6pl7172hgvu.x.pipedream.net curl -d '{ "name": "Han Solo" }' \\
+  -H "Content-Type: application/json" \\
+  https://en6pl7172hgvu.x.pipedream.net/
+curl -i https://en6pl7172hgvu.x.pipedream.net
+curl - i https://en6pl7172hgvu.x.pipedream.net curl -d '{"name": "Jah Rule" }' \ -H "Content-Type: application/json" \ https
+curl -d '{ "name": "Han Solo" }' \\
+  -H "Content-Type: application/json" \\
+  https://en6pl7172hgvu.x.pipedream.net/
+curl -d '{ "name": "Jah Rule" "Producer": "Murder Inc." }' \\
+  -H "Content-Type: application/json" \\
+  https://en6pl7172hgvu.x.pipedream.net/
+cd Desktop/DevMountain/Afternoon-projects/Week-3
+mkdir html/css
+mkdir
+mkdir -pv 
+mkdir -pv css
+code .
+ls
+cd css
+code .

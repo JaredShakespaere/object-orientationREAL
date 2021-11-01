@@ -22,3 +22,8 @@ function lowerBodyWorkoutBtn(event){
 }
 }
 lowerBodyBtn.addEventListener('click', lowerBodyWorkoutBtn)
+
+
+
+
+
